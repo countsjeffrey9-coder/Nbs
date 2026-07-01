@@ -155,7 +155,7 @@ export const metadata: Metadata = {
     url: CANONICAL_LOGIN_URL,
     images: [
       {
-        url: "/favicon-32x32.png",
+        url: "/download (1).png",
         width: 32,
         height: 32,
         alt: `${SITE_BRAND}`,
@@ -166,12 +166,12 @@ export const metadata: Metadata = {
     card: "summary",
     title: "National Benefit Services - Login",
     description: `${SITE_BRAND} – ${SITE_DOMAIN}. Access your account, manage your health and dependent care benefits, and sign in securely through ${SITE_BRAND}.`,
-    images: ["/favicon-32x32.png"],
+    images: ["/download (1).png"],
   },
   icons: {
-    icon: "/favicon-32x32.png",
-    shortcut: "/favicon-32x32.png",
-    apple: "/favicon-32x32.png",
+    icon: "/download (1).png",
+    shortcut: "/download (1).png",
+    apple: "/download (1).png",
   },
   category: "Business",
   alternates: {
